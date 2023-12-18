@@ -79,12 +79,13 @@
   height: 26rem !important;
 }
 .navbar {
-  transition: 500ms ease;
+  background: #27374d;
   height: 122px;
   position: fixed !important;
-  background: #27374d;
+  transition: .5s ease;
   width: 100%;
   z-index: 100;
+  margin-top: -3px;
 }
 .h2_1{
   height: 65rem;
